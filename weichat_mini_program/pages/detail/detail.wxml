@@ -1,0 +1,2 @@
+<text>这篇文章的标题是：{{title}}\n</text>
+<text>这篇文章的内容是：{{desc}}</text>

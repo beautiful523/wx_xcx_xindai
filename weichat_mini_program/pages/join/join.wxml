@@ -1,0 +1,21 @@
+<image class='banner' src='/images/about.jpg'></image>
+<view class='block'>
+  <view class='block-title'>title1</view>
+  <text class='block-desc'>text1</text>
+</view>
+
+<view class='block'>
+  <view class='block-title'>title1</view>
+  <text class='block-desc'>text1</text>
+</view>
+
+<view class='block'>
+  <view class='block-title'>title1</view>
+  <text class='block-desc'>text1</text>
+</view>
+
+<view class='block'>
+  <view class='block-title'>title1</view>
+  <text class='block-desc'>text1</text>
+</view>
+<view class='footer'><button bindtap='tele'>电话咨询</button></view>
